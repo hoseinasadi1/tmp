@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "788950548984",
+    "project_id": "lostandfound-51718",
+    "storage_bucket": "lostandfound-51718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788950548984:android:f6056f3e17b9897236560d",
+        "android_client_info": {
+          "package_name": "com.technion.lostandfound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788950548984-ep7747f25rmubn4i7ph24gj6jte1a5pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technion.lostandfound",
+            "certificate_hash": "ae272a6140d4e8721b18bb93785087c82c4eb843"
+          }
+        },
+        {
+          "client_id": "788950548984-lnhimv1b0kb0vrgq7u6oi9ll3h6mnacs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technion.lostandfound",
+            "certificate_hash": "8ed87b04c74cb350cdf9529219486641af8a9b30"
+          }
+        },
+        {
+          "client_id": "788950548984-1lel96a92fpdbf6hfjhl0q6hjtithfc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBKYTbbPPkHpH3VPhk40xo6Pc5McHMV0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788950548984-1lel96a92fpdbf6hfjhl0q6hjtithfc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
